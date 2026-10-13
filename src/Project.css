@@ -1,0 +1,20 @@
+input{
+    width: 50%;
+    gap: 100vh;
+    height: 3vh;
+    border-radius: 1vh;
+}
+form{
+    width: 50%;
+    border-color: 1px solid brown;
+    background-color: indigo;
+    height: 50vh;
+    margin: auto;
+    font-size: 20px;
+    justify-content: center;
+    row-gap: 50vh;
+    
+}
+button{
+    margin-top: 10%;
+}

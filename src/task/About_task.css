@@ -1,0 +1,32 @@
+.about-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: calc(100vh - 70px); 
+  padding: 40px 20px;
+ 
+}
+.about-content{
+  width: 100%;
+  max-width: 800px;
+  background: #fff;
+  padding: 40px 36px;
+  border-radius: 16px;
+}
+.about-title{   
+  
+  color: #64115f;
+  font-size: 4vh;
+}
+.about-text{
+  margin: 0 0 14px;
+  line-height: 1.8;
+  font-size: 2vh;
+  color: #0c0b0b;
+}
+.about-text h2{
+  margin: 0 0 18px;
+  font-size: 3vh;
+  color: #8d1988;
+}

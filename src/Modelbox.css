@@ -1,0 +1,47 @@
+span{
+    font-size: 4vh;
+}
+.img-box{
+    width: 10%;
+    background-color: rgb(204, 216, 255);
+    margin: 33vh;
+    padding: 20vh;
+    margin-left: 68vh;
+    margin-top: 10vh;
+    height: 350px;
+    border-radius: 5vh;
+
+}
+button{
+    width: 45vh;
+    padding: 2vh;
+    border-radius: 2vh;
+    background-color: rgb(35 147 254);
+    color: white;
+    font-size: 3vh;
+    margin-right: 80%;
+    margin-left: 6%;
+    margin-top: 40%;
+
+}
+.he1{
+    font-style:normal;
+    margin-left: -147%;
+    margin-right: -152%;
+    margin-top: 20%;
+}
+/* .he2{
+   
+    white-space: nowrap;
+    text-align: center;
+    width: 100%;
+    margin-left: -70%;
+    margin-top: -10%;
+    font-size: 100%;
+    text-indent: 30px;
+} */
+/* span{
+    margin-left: 30px;
+    font-size: 100%;
+    margin-right: 10px;
+} */

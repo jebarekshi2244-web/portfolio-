@@ -1,0 +1,54 @@
+form{
+    width: 100%;
+    height: 100vh;
+    background-color: beige;
+}
+.top{
+    position: relative;
+    width: 100%;
+    height: 6vh;
+    background-color: rgba(192, 22, 22, 0.614);
+    padding: 2vh;
+}
+.theme{
+    position: absolute;
+    width: 10%;
+    height: 5vh;
+    border-radius: 2vh;
+    background-color: beige;
+    color: black;
+    font-size: 2vh;
+    margin-top: -45px;
+    margin-right:-25%;
+    margin-left:35% ;
+}
+.addbox{
+    width: 30%;
+    height: 25vh;
+    background-color:  rgba(192, 22, 22, 0.614);
+    border-radius: 1vh;
+    padding-top: 1vh;
+    margin-top: 8%;
+    padding-bottom: 3vh;
+}
+.add{
+     width: 30%;
+    height: 5vh;
+    border-radius: 2vh;
+    background-color: beige;
+    color: black;
+    font-size: 2vh;
+    margin-top: 1%;
+    margin-right:5%; 
+}
+.light {
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+}
