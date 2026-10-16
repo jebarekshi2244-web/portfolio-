@@ -5,7 +5,7 @@ const Getdata=()=>{
     const [data,setData]=useState([])
 
     useEffect(()=>{
-        axios.get("https://dummyjson.com/c/5e0a-3a5e-4b68-ad08")
+        axios.get("http://localhost:5000/weather")
         .then((res)=>{setData(res.data)})
     },[])
 
